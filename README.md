@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about advanced data visualization techniques and predictive modeling.
 - 💞️ I’m looking to collaborate on projects related to data analysis and machine learning.
 - 📫 How to reach me via email at lnhafizramli@gmail.com or on Instagram at lvkmannn_.
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy exploring new datasets and uncovering interesting insights from them!
 
 <!---
