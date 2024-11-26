@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @lvkmannn
-- 👀 I’m interested in data analysis, machine learning, and big data technologies.
-- 🌱 I’m currently learning about advanced data visualization techniques and predictive modeling.
-- 💞️ I’m looking to collaborate on projects related to data analysis and machine learning.
-- 📫 How to reach me via email at lnhafizramli@gmail.com or on Instagram at lvkmannn_.
-- ⚡ Fun fact: I enjoy exploring new datasets and uncovering interesting insights from them!
+# Hi, I'm @lvkmannn
+### Connect with Me
+
+- **LinkedIn**: [Lukman Nur Hafiz](https://www.linkedin.com/in/lukman-nur-hafiz-ramli/)  
+- **Email**: [lnhafizramli@gmail.com](mailto:lnhafizramli@gmail.com)
+
 
 <!---
 lvkmannn/lvkmannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
